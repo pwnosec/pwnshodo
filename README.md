@@ -15,3 +15,5 @@ $ pwnshodo
 go run main.go -d target.com -s YourAPIKEY / go run main.go -f file -s YourAPIKEY
 pwnshodo -d target.com -s MYShodaNKey [-f input_file]
 ```
+
+![](https://i.ibb.co.com/23v2gY0/Screenshot-2024-10-01-at-01-06-57.png)
